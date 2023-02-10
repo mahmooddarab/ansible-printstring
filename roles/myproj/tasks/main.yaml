@@ -1,0 +1,5 @@
+---
+- name: ----------printstring------------
+  debug:
+    msg: "MyString"
+  tags: debug_mod
